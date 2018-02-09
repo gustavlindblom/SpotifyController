@@ -1,0 +1,17 @@
+D:\Code\Personal\SpotifyController\SpotifyController.Data\bin\Debug\SpotifyController.Data.dll.config
+D:\Code\Personal\SpotifyController\SpotifyController.Data\bin\Debug\SpotifyController.Data.dll
+D:\Code\Personal\SpotifyController\SpotifyController.Data\bin\Debug\SpotifyController.Data.pdb
+D:\Code\Personal\SpotifyController\SpotifyController.Data\bin\Debug\EntityFramework.dll
+D:\Code\Personal\SpotifyController\SpotifyController.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\Personal\SpotifyController\SpotifyController.Data\bin\Debug\System.Data.SQLite.dll
+D:\Code\Personal\SpotifyController\SpotifyController.Data\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Code\Personal\SpotifyController\SpotifyController.Data\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Code\Personal\SpotifyController\SpotifyController.Data\bin\Debug\EntityFramework.xml
+D:\Code\Personal\SpotifyController\SpotifyController.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\Personal\SpotifyController\SpotifyController.Data\bin\Debug\System.Data.SQLite.xml
+D:\Code\Personal\SpotifyController\SpotifyController.Data\bin\Debug\System.Data.SQLite.dll.config
+D:\Code\Personal\SpotifyController\SpotifyController.Data\obj\Debug\SpotifyController.Data.csproj.CoreCompileInputs.cache
+D:\Code\Personal\SpotifyController\SpotifyController.Data\obj\Debug\SpotifyController.Data.dll
+D:\Code\Personal\SpotifyController\SpotifyController.Data\obj\Debug\SpotifyController.Data.pdb
+D:\Code\Personal\SpotifyController\SpotifyController.Data\obj\Debug\SpotifyController.Data.csprojResolveAssemblyReference.cache
+D:\Code\Personal\SpotifyController\SpotifyController.Data\bin\Debug\SQLite.CodeFirst.dll
